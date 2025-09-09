@@ -30,7 +30,8 @@ He seleccionado proyectos que destacan temas clave en ciberseguridad y data scie
  - **Avance**: 100%
  - **Repo**
 
-
+___
+Última actualización: 09/09/25
 
  
 [LinkedIn_GrupoR]:https://www.linkedin.com/groups/77616/
