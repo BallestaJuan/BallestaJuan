@@ -23,7 +23,7 @@ Aquí mis stats de GitHub para estos lenguajes:
 ## Portafolio: Proyectos y Temas Interesantes
 He seleccionado proyectos que destacan temas clave en ciberseguridad y data science. Cada uno incluye código en R/Python, descripciones y lecciones aprendidas. ¡Haz click para ver los repos completos!
 
-### **1. Publicaciones en LimkedIn sobre análisis de datos con R.**
+### **1. Publicaciones en LinkedIn sobre análisis de datos con R.**
 
  - **Descripción**: en el grupo del LinkedIn [ 🔗 The R project for Statistical Computing][LinkedIn_GrupoR] he realizado una serie de documentos presentando ejemplos sencillos del uso de R para el análisis de datos.
  - **Tecnologíaas**: Lenguaje de programación R
