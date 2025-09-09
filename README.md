@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/[tu-usuario]?style=social)](https://github.com/[BallestaJuan]?tab=followers)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[BallestaJuan])
 
-Soy un entusiasta del aprendizaje en **ciberseguridad** y **ciencia de datos**, enfocado en dominar lenguajes como R y Python. Estoy construyendo este portafolio para documentar mis avances, proyectos y temas que me apasionan. ¡Si te interesa colaborar, contáctame!
+Soy un entusiasta del aprendizaje en **ciberseguridad** y **ciencia de datos**, enfocado en dominar lenguajes como R 📊 y Python 🐍. Estoy construyendo este portafolio para documentar mis avances, proyectos y temas que me apasionan. ¡Si te interesa colaborar, contáctame!
 
 ## Mis Habilidades en Evolución
 Estoy progresando en:
@@ -25,7 +25,7 @@ He seleccionado proyectos que destacan temas clave en ciberseguridad y data scie
 
 ### **1. Publicaciones en LimkedIn sobre análisis de datos con R.**
 
- - **Descripción**: en el grupo del LinkedIn [⛓️ The R project for Statistical Computing][LinkedIn_GrupoR] he realizado una serie de documentos presentando ejemplos sencillos del uso de R para el análisis de datos.
+ - **Descripción**: en el grupo del LinkedIn [ 🔗 The R project for Statistical Computing][LinkedIn_GrupoR] he realizado una serie de documentos presentando ejemplos sencillos del uso de R para el análisis de datos.
  - **Tecnologíaas**: Lenguaje de programación R
  - **Avance**: 100%
  - **Repo**
