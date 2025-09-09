@@ -17,6 +17,7 @@ Estoy progresando en:
 - **R**: Especializado en análisis estadístico y visualizaciones de datos (ej. con ggplot2 y dplyr).
 
 Aquí mis stats de GitHub para estos lenguajes:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BallestaJuan&layout=compact&langs_count=6&theme=radical)
 
 ## Portafolio: Proyectos y Temas Interesantes
