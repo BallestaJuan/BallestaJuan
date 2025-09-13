@@ -26,12 +26,12 @@ He seleccionado proyectos que destacan temas clave en ciberseguridad y data scie
 ### **1. Publicaciones en LinkedIn sobre análisis de datos con R.**
 
  - **Descripción**: en el grupo del LinkedIn [ 🔗 The R project for Statistical Computing][LinkedIn_GrupoR] he realizado una serie de documentos presentando ejemplos sencillos del uso de R para el análisis de datos.
- - **Tecnologíaas**: Lenguaje de programación R
+ - **Tecnologías**: Lenguaje de programación R
  - **Avance**: 100%
  - **Repo**
 
 ___
-Última actualización: 09/09/25
+Última actualización: 13/09/25
 
  
 [LinkedIn_GrupoR]:https://www.linkedin.com/groups/77616/
