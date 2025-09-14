@@ -28,10 +28,18 @@ He seleccionado proyectos que destacan temas clave en ciberseguridad y data scie
  - **Descripción**: en el grupo del LinkedIn [ 🔗 The R project for Statistical Computing][LinkedIn_GrupoR] he realizado una serie de documentos presentando ejemplos sencillos del uso de R para el análisis de datos.
  - **Tecnologías**: Lenguaje de programación R
  - **Avance**: 100%
- - **Repo**
+ - **Repo** : [Repo R_Linkedin]
+
+### **2. Portfolio de la certificación con Google en Ciberseguridad.**
+
+ - **Descripción**: algunas de las actividades realizadas durante la certificación usando Python 🐍, SQL , Linux.
+ - **Tecnologías**: Lenguajes Python 🐍, SQL y la terminal de Linux (Bash)
+ - **Avance** : 10%
+ - **Repo** :
 
 ___
 Última actualización: 13/09/25
 
  
 [LinkedIn_GrupoR]:https://www.linkedin.com/groups/77616/
+[Repo R_Linkedin]:https://github.com/BallestaJuan/R_LinkedIn 
