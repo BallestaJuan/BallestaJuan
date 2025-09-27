@@ -35,11 +35,19 @@ He seleccionado proyectos que destacan temas clave en ciberseguridad y data scie
  - **Descripción**: algunas de las actividades realizadas durante la certificación usando Python 🐍, SQL , Linux.
  - **Tecnologías**: Lenguajes Python 🐍, SQL y la terminal de Linux (Bash)
  - **Avance** : 10%
- - **Repo** :
+ - **Repo** :[Repo Google_Cibersec]
 
+### **3. Retos de programación.**
+
+ - **Descripción**: Retos de programación en Python para mejorar mis habilidades y lógica de programación.
+ - **Tecnologías**: Lenguajes Python 🐍, Git / GitHub y la Terminal
+ - **Avance** : 10%
+ - **Repo** :[Repo Python_Desafios]
 ___
-Última actualización: 14/09/25
+Última actualización: 27/09/25
 
  
 [LinkedIn_GrupoR]:https://www.linkedin.com/groups/77616/
 [Repo R_Linkedin]:https://github.com/BallestaJuan/R_LinkedIn 
+[Repo Google_Cibersec]:https://github.com/BallestaJuan/Google_Cibersecurity_Cetificate
+[Repo Python_Desafios]:https://github.com/BallestaJuan/Python_Desafios
